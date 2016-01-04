@@ -21,6 +21,12 @@ A curated list of tools and resources for security incident response, aimed to h
 
 ## IR tools Collection
 
+### OnTheWire OSINT
+* [Virustotal]
+* [OTX]
+* [IBM X-Force]
+
+
 ### Disk Image Creation Tools
 
 * [GetData Forensic Imager](http://www.forensicimager.com/) - GetData Forensic Imager is a Windows based program that will acquire, convert, or verify a forensic image in one of the following common forensic file formats
