@@ -1,8 +1,6 @@
 # awesome-incident-response
 A curated list of tools and resources for security incident response, aimed to help security analysts and [DFIR](http://www.acronymfinder.com/Digital-Forensics%2c-Incident-Response-(DFIR).html) teams.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 - [OnTheWire OSINT](#OnTheWire-OSINT)
 - [Disk Image Creation Tools](#disk-image-creation-tools)
 - [Memory Analysis Tools](#memory-analysis-tools)
@@ -20,16 +18,15 @@ A curated list of tools and resources for security incident response, aimed to h
 - [Books](#books)
 - [Communities](#communities)
 
-## IR tools Collection
+
 
 ### OnTheWire OSINT
 * [Virustotal] (https://virustotal.com) - VirusTotal Open Virus DB
 * [OTX] (https://otx.alienvault.com/dashboard/) - Alien Vault
 * [IBM X-Force] (https://exchange.xforce.ibmcloud.com/) - IBM X-Force
 
-
+## IR tools Collection
 ### Disk Image Creation Tools
-
 * [GetData Forensic Imager](http://www.forensicimager.com/) - GetData Forensic Imager is a Windows based program that will acquire, convert, or verify a forensic image in one of the following common forensic file formats
 * [Guymager](http://guymager.sourceforge.net) - Guymager is a free forensic imager for media acquisition on Linux
 * [AccessData FTK Imager](http://accessdata.com/product-download/?/support/adownloads#FTKImager) - AccessData FTK Imager is a forensics tool whose main purpose is to preview recoverable data from a disk of any kind. FTK Imager can also acquire live memory and paging file on 32bit and 64bit systems
