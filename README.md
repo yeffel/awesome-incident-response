@@ -3,6 +3,7 @@ A curated list of tools and resources for security incident response, aimed to h
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+- [OSINT](#OSINT)
 - [Disk Image Creation Tools](#disk-image-creation-tools)
 - [Memory Analysis Tools](#memory-analysis-tools)
 - [Memory Imaging Tools](#memory-imaging-tools)
@@ -22,9 +23,9 @@ A curated list of tools and resources for security incident response, aimed to h
 ## IR tools Collection
 
 ### OnTheWire OSINT
-* [Virustotal]
-* [OTX]
-* [IBM X-Force]
+* [Virustotal] (https://virustotal.com) - VirusTotal Open Virus DB
+* [OTX] (https://otx.alienvault.com/dashboard/) - Alien Vault
+* [IBM X-Force] (https://exchange.xforce.ibmcloud.com/) - IBM X-Force
 
 
 ### Disk Image Creation Tools
