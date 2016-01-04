@@ -1,7 +1,7 @@
 # awesome-incident-response
 A curated list of tools and resources for security incident response, aimed to help security analysts and [DFIR](http://www.acronymfinder.com/Digital-Forensics%2c-Incident-Response-(DFIR).html) teams.
 
-- [OnTheWire OSINT](#OnTheWire-OSINT)
+- [OnTheWire OSINT](#onthewire-osint)
 - [Disk Image Creation Tools](#disk-image-creation-tools)
 - [Memory Analysis Tools](#memory-analysis-tools)
 - [Memory Imaging Tools](#memory-imaging-tools)
